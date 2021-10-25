@@ -1,6 +1,6 @@
-# test_number_one
+# Luminoso App
 
-A new Flutter project.
+An aesthetic mobile graphic interface created to enhance the Luminoso user experience. 
 
 ## Getting Started
 
