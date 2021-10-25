@@ -1,6 +1,6 @@
 # Luminoso App
 
-An aesthetic mobile graphic interface created to enhance the Luminoso user experience. 
+An aesthetic mobile interface created to streamline the Luminoso user experience.
 
 ## Getting Started
 
