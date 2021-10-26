@@ -2,7 +2,7 @@
 
 An aesthetic mobile interface created to streamline the Luminoso user experience.
 
-## Getting Started
+## Sub-Header
 
 This project is a starting point for a Flutter application.
 
